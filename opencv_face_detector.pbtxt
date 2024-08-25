@@ -1,4 +1,4 @@
-node 
+node {
   name: "data"
   op: "Placeholder"
   attr {
